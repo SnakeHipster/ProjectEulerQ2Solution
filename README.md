@@ -1,0 +1,1 @@
+# ProjectEulerQ2Solution
